@@ -6,10 +6,14 @@
 ## Ads
 ### Ads - Amazon
 advertising-api-eu.amazon.com
+||advertising-api-eu.amazon.com^
 amazon-adsystem.com
 ||amazon-adsystem.com^
 analytics.s3.amazonaws.com
+||analytics.s3.amazonaws.com^
 analyticsengine.s3.amazonaws.com
+||analyticsengine.s3.amazonaws.com^
+
 
 ### Ads - Google
 googleanalytics.com
