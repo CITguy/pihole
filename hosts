@@ -1,5 +1,40 @@
 ## UNSORTED
 
+
+# Categorical...
+
+## Ads
+### Ads - Amazon
+advertising-api-eu.amazon.com
+amazon-adsystem.com
+||amazon-adsystem.com^
+analytics.s3.amazonaws.com
+analyticsengine.s3.amazonaws.com
+
+### Ads - Google
+googleanalytics.com
+||googleanalytics.com^
+google-analytics.com
+||google-analytics.com^
+googlesyndication.com
+||googlesyndication.com^
+googletagservices.com
+||googletagservices.com^
+
+### Ads - Doubleclick.net
+doubleclick.net
+||doubleclick.net^
+
+### Ads - Adcolony
+# ...handled by default pihole adlist
+
+### Ads - Media.net
+# ...handled by default pihole adlist
+
+
+
+# Alphanumeric (by domain)...
+
 ## NUMERIC
 2mdn.net
 ||2mdn.net^
@@ -25,8 +60,6 @@ criteo.com
 ||criteo.com^
 
 ## D
-doubleclick.net
-||doubleclick.net^
 
 ## E
 
@@ -35,14 +68,6 @@ flashtalking.com
 ||flashtalking.com^
 
 ## G
-googleanalytics.com
-||googleanalytics.com^
-google-analytics.com
-||google-analytics.com^
-googlesyndication.com
-||googlesyndication.com^
-googletagservices.com
-||googletagservices.com^
 
 ## H
 stats.hprofits.com
@@ -98,12 +123,3 @@ stray228.com
 ||yandex.net^
 
 ## Z
-
-## ================================================================================
-## AMAZON
-## ================================================================================
-advertising-api-eu.amazon.com
-amazon-adsystem.com
-||amazon-adsystem.com^
-analytics.s3.amazonaws.com
-analyticsengine.s3.amazonaws.com
