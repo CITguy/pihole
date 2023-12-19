@@ -3,38 +3,47 @@
 
 # Categorical...
 
-## Ads
-### Ads - Amazon
+# ===== Ads
+# --- Ads: Amazon
 advertising-api-eu.amazon.com
-||advertising-api-eu.amazon.com^
 amazon-adsystem.com
-||amazon-adsystem.com^
 analytics.s3.amazonaws.com
-||analytics.s3.amazonaws.com^
 analyticsengine.s3.amazonaws.com
+||advertising-api-eu.amazon.com^
+||amazon-adsystem.com^
+||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
-
-
-### Ads - Google
-googleanalytics.com
-||googleanalytics.com^
-google-analytics.com
-||google-analytics.com^
+# --- Ads: Google
 googlesyndication.com
-||googlesyndication.com^
 googletagservices.com
+||googlesyndication.com^
 ||googletagservices.com^
-
 ### Ads - Doubleclick.net
 doubleclick.net
 ||doubleclick.net^
 
-### Ads - Adcolony
-# ...handled by default pihole adlist
 
-### Ads - Media.net
-# ...handled by default pihole adlist
 
+# ===== Analytics
+# --- Analytics: Google
+googleanalytics.com
+google-analytics.com
+||googleanalytics.com^
+||google-analytics.com^
+# --- Analytics: Hotjar
+events.hotjar.io
+||hotjar.io^
+||hotjar.com^
+# --- Analytics: MouseFlow
+mouseflow.com
+||mouseflow.com^
+# --- Analytics: FreshWorks
+freshmarketer.com
+||freshmarketer.com^
+# --- Analytics: Luckyorange
+luckyorange.com
+||luckyorange.com^
+||luckyorange.net^
 
 
 # Alphanumeric (by domain)...
