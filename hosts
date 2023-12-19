@@ -48,6 +48,41 @@ luckyorange.com
 
 
 # ===== Error Trackers
+# --- Error Tracker: Bugsnag
+||bugsnag.com^
+# --- Error Tracker: Sentry
+app.getsentry.com
+browser.sentry-cdn.com
+
+
+# ===== Social Trackers
+# --- Social Tracker: Facebook
+an.facebook.com
+pixel.facebook.com
+# --- Social Tracker: Twitter
+ads-api.twitter.com
+static.ads-twitter.com
+# --- Social Tracker: LinkedIn
+ads.linkedin.com
+analytics.pointdrive.linkedin.com
+# --- Social Tracker: Pinterest
+ads.pinterest.com
+analytics.pinterest.com
+log.pinterest.com
+trk.pinterest.com
+widgets.pinterest.com
+# --- Social Tracker: Reddit
+events.reddit.com
+events.redditmedia.com
+# --- Social Tracker: YouTube
+ads.youtube.com
+# --- Social Tracker: TikTok
+ads.tiktok.com
+ads-api.tiktok.com
+ads-sg.tiktok.com
+analytics.tiktok.com
+analytics-sg.tiktok.com
+business-api.tiktok.com
 
 
 
