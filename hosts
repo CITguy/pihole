@@ -1,21 +1,21 @@
 bestcontentsite.top
-widgets.pinterest.com
+widgets.pinterest.com # Social Tracker
 ||2mdn.net^
 ||adsafeprotected.com^
 ||bestcontentsite.top^
 ||bkrtx.com^
 ||bluekai.com^
-||doubleclick.net^
-||googletagservices.com^
-||google-analytics.com^
-||hicloud.com^
-||hotjar.com^
+||doubleclick.net^ # Ads
+||googletagservices.com^ # Ads
+||google-analytics.com^ # Ads
+||hicloud.com^ # OEM (Huawei)
+||hotjar.com^ # Analytics
 ||imrworldwide.com^
 ||krxd.net^
-||miui.com^
-||oppomobile.com^
+||miui.com^ # OEM (Xiaomi)
+||oppomobile.com^ # OEM (Oppo)
 ||opti-digital.com^
 ||stray228.com^
-||xiaomi.com^ # OEM
-# ||yandex.ru^
-# ||yandex.net^
+||xiaomi.com^ # OEM (Xiaomi)
+||yandex.net^
+||yandex.ru^
